@@ -1,0 +1,7 @@
+.list-group{
+    --bs-list-group-bg:trasparent;
+}
+    
+i.fa-brands.fa-facebook.fa-2xl:hover{
+    color: blue;
+ }
